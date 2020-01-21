@@ -1,0 +1,8 @@
+.city-box-container {
+  display: table-cell;
+  width: 100%;
+}
+.city-card-container {
+  display: table-cell;
+  margin-left: 5px;
+}
